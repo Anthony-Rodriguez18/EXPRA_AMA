@@ -199,7 +199,11 @@
 	margin: 1rem 0;
 	cursor: pointer;
 }
-
+.boton{
+	background-color: transparent;
+	border-color:  transparent;
+	color:  white;
+  }
 .barra{
 	margin: 120px 0 0;
 	width: 100%;
